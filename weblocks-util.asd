@@ -31,7 +31,8 @@
                :trivial-backtrace 
                :parse-number 
                :pretty-function 
-               :ironclad)
+               :ironclad
+               :babel)
   :components 
     ((:module src
       :components (
